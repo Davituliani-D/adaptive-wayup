@@ -106,7 +106,7 @@ p {
 
 .skill {
     width: 289px;
-    background: url("/img/icon1.jpg") no-repeat top;
+    background: url("img/icon1.jpg") no-repeat top;
     padding-top: 100px;
     margin-top: 70px;
 }
@@ -125,12 +125,12 @@ p {
 }
 
 .skill-travel {
-    background: url("/img/icon2.jpg") no-repeat top;
+    background: url("img/icon2.jpg") no-repeat top;
     width: 289px;
 }
 
 .skill-value {
-    background: url("/img/icon3.jpg") no-repeat top;
+    background: url("img/icon3.jpg") no-repeat top;
     width: 289px;
 }
 
